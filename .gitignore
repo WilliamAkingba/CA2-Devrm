@@ -1,0 +1,16 @@
+# Python files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.log
+
+# VS Code files
+.vscode/
+
+# Other IDE files
+.idea/
+*.swp
